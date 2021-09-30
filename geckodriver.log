@@ -1,0 +1,69 @@
+1633003848494	geckodriver	INFO	Listening on 127.0.0.1:44459
+1633003848497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegPCCcD"
+1633003849501	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegPCCcD/search.json.mozlz4", (void 0)))
+1633003850966	Marionette	INFO	Listening on port 38237
+1633003851037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dns-shop.ru/catalog/17a8b09516404e77/igry-dlya-nintendo/?shop-catalog=e3b39036-201b-11eb-a212-00155d28220e&stock=1&f[s05j]=13tlrl line 338 > injectedScript, line 1: ReferenceError: VK is not defined
+JavaScript warning: https://as.dns-shop.ru/assets/f4958a0a/js/modules/log-action.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://as.dns-shop.ru/assets/f4958a0a/js/modules/log-action.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.dns-shop.ru/catalog/17a8b09516404e77/igry-dlya-nintendo/?shop-catalog=e3b39036-201b-11eb-a212-00155d28220e&stock=1&f[s05j]=13tlrl line 338 > injectedScript, line 1: ReferenceError: VK is not defined
+JavaScript warning: https://as.dns-shop.ru/assets/f4958a0a/js/modules/log-action.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://as.dns-shop.ru/assets/f4958a0a/js/modules/log-action.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633003869687	Marionette	INFO	Stopped listening on port 38237
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633004225776	geckodriver	INFO	Listening on 127.0.0.1:59569
+1633004225780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileaUC7xB"
+1633004226679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaUC7xB/search.json.mozlz4", (void 0)))
+1633004228209	Marionette	INFO	Listening on port 34221
+1633004228308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dns-shop.ru/catalog/17a8b09516404e77/igry-dlya-nintendo/?shop-catalog=e3b39036-201b-11eb-a212-00155d28220e&stock=1&f[s05j]=13tlrl line 338 > injectedScript, line 1: ReferenceError: VK is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://as.dns-shop.ru/assets/f4958a0a/js/modules/log-action.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://as.dns-shop.ru/assets/f4958a0a/js/modules/log-action.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1633004247693	Marionette	INFO	Stopped listening on port 34221
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 38261, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-FZEckL/firefox-92.0+build3/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+1633007363367	geckodriver	INFO	Listening on 127.0.0.1:56207
+1633007363370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileLJ7LjB"
+*** You are running in headless mode.
+1633007363834	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLJ7LjB/search.json.mozlz4", (void 0)))
+1633007365001	Marionette	INFO	Listening on port 36371
+1633007365112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dns-shop.ru/catalog/17a8b09516404e77/igry-dlya-nintendo/?shop-catalog=e3b39036-201b-11eb-a212-00155d28220e&stock=1&f[s05j]=13tlrl line 338 > injectedScript, line 1: ReferenceError: VK is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://as.dns-shop.ru/assets/f4958a0a/js/modules/log-action.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://as.dns-shop.ru/assets/f4958a0a/js/modules/log-action.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633007382812	Marionette	INFO	Stopped listening on port 36371
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 41647, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-FZEckL/firefox-92.0+build3/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+1633008132848	geckodriver	INFO	Listening on 127.0.0.1:54113
+1633008132851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileVnmAXc"
+*** You are running in headless mode.
+1633008133315	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVnmAXc/search.json.mozlz4", (void 0)))
+1633008134633	Marionette	INFO	Listening on port 44769
+1633008134691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dns-shop.ru/catalog/17a8b09516404e77/igry-dlya-nintendo/?shop-catalog=e3b39036-201b-11eb-a212-00155d28220e&stock=1&f[s05j]=13tlrl line 6 > injectedScript, line 1: ReferenceError: VK is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://as.dns-shop.ru/assets/f4958a0a/js/modules/log-action.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://as.dns-shop.ru/assets/f4958a0a/js/modules/log-action.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633008147674	Marionette	INFO	Stopped listening on port 44769
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 42777, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-FZEckL/firefox-92.0+build3/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
